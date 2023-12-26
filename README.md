@@ -1,2 +1,2 @@
 # mysh
-my shell
+a small shell
